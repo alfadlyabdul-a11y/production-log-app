@@ -5,7 +5,7 @@ package.domain = org.production
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python3==3.11.9,kivy==2.3.0,opencv-python,requests
+requirements = python3,kivy==2.3.0,opencv-python,requests
 orientation = portrait
 fullscreen = 1
 android.permissions = INTERNET, CAMERA
